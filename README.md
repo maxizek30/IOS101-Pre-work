@@ -21,6 +21,27 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+### Gmail
+
+- Searchbar
+- Advanced sorting and filtering features for emails
+- Drawer navigation
+
+### Discord
+
+- Light mode theme
+- Swipe left to see navigation
+- new chat button
+- Searchbar
+
+### Youtube Music
+
+- Speed dial feature
+  - Allows you to play your favorite songs fast
+- Advanced sorting features for sorting music and playlists
+- Download music
+- Searchbar
+
 ## Notes
 
 Describe any challenges encountered while building the app.
