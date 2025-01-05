@@ -2,9 +2,9 @@
 
 Submitted by: **Max Lopez**
 
-**Name of your app** is an app that changes the background color of the app through a button press.
+This pre-work is an app that changes the background color of the app through a button press.
 
-Time spent: **1** hours spent in total
+Time spent: **1.5** hours spent in total
 
 ## Required Features
 
@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.
 
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+![Guide](demo.gif)
 
 ## App Brainstorming (Step 4)
 
@@ -42,9 +42,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 - Download music
 - Searchbar
 
-## Notes
-
-Describe any challenges encountered while building the app.
+I’m envisioning a social fitness app that helps users log and track their workouts while staying motivated through friends and community features. It would offer simple authentication (with Google, Apple, or email), an intuitive workout logging process (complete with custom exercises, sets, reps, and weights), and a daily streak system to encourage consistency. Users could share posts, comment on each other’s progress, earn badges, and sync optionally with Apple Health for a more holistic fitness overview. Additionally, built-in notifications and scheduling reminders would help users plan and stick to their workout sessions, with privacy settings available for those who prefer to keep their activities more private.
 
 ## License
 
